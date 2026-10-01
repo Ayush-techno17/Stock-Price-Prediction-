@@ -1,0 +1,33 @@
+# Stock Market Prediction using ML, ANN & LSTM
+# Recommended: Python 3.12
+
+# Core data handling
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning - ANN & LSTM
+tensorflow
+keras
+
+# Financial market data
+yfinance>=1.7.0
+curl_cffi>=0.16.3
+
+# News & sentiment analysis
+newsapi-python
+nltk
+
+# HTTP/API utilities
+requests
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
